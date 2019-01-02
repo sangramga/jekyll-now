@@ -2,7 +2,7 @@
 layout: post
 title: Tech Journey
 ---
-# Tech Journey
+# What Today? 
 
 * Jekyll and github pages for sangramga.github.io
 * GPL licensing FAQs
