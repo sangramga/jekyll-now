@@ -6,6 +6,6 @@ title: Tech Journey
 
 * Jekyll and github pages for sangramga.github.io
 * GPL licensing FAQs
-    * (https://www.gnu.org/licenses/gpl-faq.en.html#DoesTheGPLRequireAvailabilityToPublic) 
-    * https://www.gnu.org/licenses/gpl-faq.en.html#UnchangedJustBinary
-    * https://www.gnu.org/licenses/gpl-faq.en.html#LibGCCException
+    * [GPL Public Availability](https://www.gnu.org/licenses/gpl-faq.en.html#DoesTheGPLRequireAvailabilityToPublic) 
+    * [GPL Binaries Only](https://www.gnu.org/licenses/gpl-faq.en.html#UnchangedJustBinary) 
+    * [LibGCCException](https://www.gnu.org/licenses/gpl-faq.en.html#LibGCCException) 
