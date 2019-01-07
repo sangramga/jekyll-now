@@ -1,5 +1,7 @@
-
-# What Today? 
+---
+layout: post
+title: 2019-01-01
+---
 
 * Jekyll and github pages for sangramga.github.io
 * GPL licensing FAQs
